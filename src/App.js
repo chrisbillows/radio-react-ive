@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import { TestComponent } from './components/0_scratch_component';
-import { StaticPage } from './components/1_static_page';
-import { Header, Footer, MainContent } from './components/2_header_main_footer';
+// import { TestComponent } from './components/0_scratch_component';
+// import { StaticPage } from './components/1_static_page';
+// import { Header, Footer, MainContent } from './components/2_header_main_footer';
 import { JsBasicEmbed } from './components/3_embed_js';
 import { PropsFruit } from './components/4_props_fruit';
 import PropsAnimals from './components/5_props_animals';
