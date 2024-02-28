@@ -17,11 +17,3 @@ export default function ArrayRender() {
 function TodoItem(props) {
     return <li>{props.title}</li>;
   }
-
-
-
-// ORIGINAL
-{/* <TodoItem title="Learn React components" />
-        <TodoItem title="Learn React props" />
-        <TodoItem title="Learn conditional rendering" />
-        <TodoItem title="Learn how to render lists" /> */}

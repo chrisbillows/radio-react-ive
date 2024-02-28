@@ -26,7 +26,7 @@ export function MainContent() {
 export function Footer() {
   return (
     <footer>
-      <a href="#">Privacy policy</a>
+      <p>Privacy policy - there isn't one!</p>
     </footer>
   );
 }

@@ -48,10 +48,9 @@ function ItemCard(props) {
 }
 
 function DisplayProps (props) {
-  console.log("An 'is the console working string: " +"Hello world!");
-  console.log("Accessing a props property with dot notation: " + props.name);
-  console.log("What type is props.name? " + typeof props.name);
-  console.log("What type is props itself? " + typeof props);
+  console.log(`Accessing a props property with dot notation: ${props.name}`);
+  console.log(`What type is props.name? ${typeof props.name}`);
+  console.log(`What type is props itself? ${typeof props}`);
   console.log(props);
   return (
     <h2 style={{color: 'purple'}} className="scroll-flash">CHECK CONSOLE!</h2>
