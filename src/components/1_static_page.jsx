@@ -26,7 +26,7 @@ export function StaticPage() {
       </main>
 
       <footer>
-        <a href="#">What afoot-er.</a>
+        <p>What afoot-er.</p>
       </footer>
     </div>
   );
